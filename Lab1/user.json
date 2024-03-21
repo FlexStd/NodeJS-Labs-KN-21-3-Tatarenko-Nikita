@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "userId": "1710842999800",
+        "firstName": "John",
+        "lastName": "Doe",
+        "languages": [
+          {
+            "title": "JavaScript",
+            "level": "Junior"
+          },
+          {
+            "title": "C#",
+            "level": "Junior"
+          }
+        ]
+      },
+      {
+        "userId": "1710843590893",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "languages": [
+          {
+            "title": "C#",
+            "level": "Senior"
+          }
+        ]
+      }
+    ]
+  }
